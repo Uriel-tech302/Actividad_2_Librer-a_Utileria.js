@@ -88,9 +88,10 @@ console.log(calcularDescuento(1500, 10));
 <img width="1920" height="1200" alt="Parte_3" src="https://github.com/user-attachments/assets/49bbda99-9729-4a33-9b45-0f67ea096ad7" />
 <img width="1918" height="1090" alt="Parte_5" src="https://github.com/user-attachments/assets/67737c53-a258-488d-98df-c083ec95da9b" />
 
-Video demostrativo
+## Video demostrativo
+
 El video demostrativo contiene una explicación del problema que resuelve la librería, cómo se instala, cómo se usa y se muestra el resultado en acción interactuando con el formulario, el modal, el login y la consola.
 
-Enlace del video:
+Enlace del video: 
 
 

@@ -29,7 +29,7 @@ console.log(soloLetras("Uriel"));
 // Resultado: true
 console.log(soloLetras("Uriel123")); 
 // Resultado: false
-
+```
 **2. Validación de Longitud Máxima**
 Asegura que un valor numérico o cadena de texto no exceda el límite de caracteres permitido (ej. números telefónicos a 10 dígitos).
 ```javascript
@@ -37,3 +37,43 @@ console.log(validarLongitud("9511234567", 10));
 // Resultado: true
 console.log(validarLongitud("123456789012", 10)); 
 // Resultado: false
+```
+**3. Validación de Correo Electrónico**
+Comprueba que el texto cumpla con el estándar internacional de estructura de correos electrónicos (usuario@dominio.com).
+```javascript
+console.log(validarCorreo("usuario@ito.edu.mx")); 
+// Resultado: true
+console.log(validarCorreo("correo_invalido")); 
+// Resultado: false
+```
+**4. Validación de Contraseña Segura**
+Filtro de alta seguridad que exige un mínimo de 8 caracteres, al menos una letra mayúscula, una minúscula, un número y un carácter especial.
+```javascript
+console.log(validarPassword("Sistema2026*")); 
+// Resultado: true
+console.log(validarPassword("holamundo")); 
+// Resultado: false
+```
+**5. Validación de Mayoría de Edad**
+Calcula dinámicamente si la fecha de nacimiento ingresada corresponde a una persona de 18 años o más respecto a la fecha actual del sistema.
+```javascript
+console.log(esMayorDeEdad("1999-05-15")); 
+// Resultado: true
+console.log(esMayorDeEdad("2015-08-20")); 
+// Resultado: false
+```
+## Funciones adicionales
+
+**1. Calcular Índice de Masa Corporal (IMC)**
+Útil para llevar el seguimiento en una rutina física o médica.
+```javascript
+console.log(calcularIMC(75, 1.75)); 
+// Resultado: 24.49
+```
+**2. Calcular Descuento en Ventas**
+Ideal para sistemas de inventario, calcula el precio final validando que el descuento esté entre 0 y 100%.
+```javascript
+console.log(calcularDescuento(1500, 10)); 
+// Resultado: 1350
+```
+

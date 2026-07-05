@@ -76,4 +76,6 @@ Ideal para sistemas de inventario, calcula el precio final validando que el desc
 console.log(calcularDescuento(1500, 10)); 
 // Resultado: 1350
 ```
+<img width="1918" height="1087" alt="Parte_2" src="https://github.com/user-attachments/assets/6b692831-d956-40c7-ab44-5b82faf32c10" />
+<img width="1918" height="1092" alt="Parte_1" src="https://github.com/user-attachments/assets/e376a5e7-7b34-4bf7-8c35-e0b3b5a89aee" />
 

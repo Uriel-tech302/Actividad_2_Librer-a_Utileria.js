@@ -3,7 +3,9 @@
 ## Portada
 
 **Nombre:** Uriel Espinoza de la Rosa
+
 **Proyecto:** Utilería JS
+
 **Carrera:** Ingeniería en Sistemas Computacionales, ITO
 
 ## ¿Qué problema resuelve?

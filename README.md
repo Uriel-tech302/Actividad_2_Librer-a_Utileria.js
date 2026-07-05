@@ -19,3 +19,21 @@ El proyecto incluye:
 ## Instalación
 
 Para usar la librería se debe enlazar el archivo `utileria.js` dentro del HTM.
+
+## Funciones obligatorias
+
+**1. Validación de Texto (Solo letras)**
+Verifica que la cadena contenga exclusivamente letras, permitiendo el uso de acentos y espacios, ideal para nombres completos.
+```javascript
+console.log(soloLetras("Uriel")); 
+// Resultado: true
+console.log(soloLetras("Uriel123")); 
+// Resultado: false
+
+**2. Validación de Longitud Máxima**
+Asegura que un valor numérico o cadena de texto no exceda el límite de caracteres permitido (ej. números telefónicos a 10 dígitos).
+```javascript
+console.log(validarLongitud("9511234567", 10)); 
+// Resultado: true
+console.log(validarLongitud("123456789012", 10)); 
+// Resultado: false

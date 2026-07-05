@@ -76,6 +76,13 @@ Ideal para sistemas de inventario, calcula el precio final validando que el desc
 console.log(calcularDescuento(1500, 10)); 
 // Resultado: 1350
 ```
+## Ejemplos
+
 <img width="1918" height="1087" alt="Parte_2" src="https://github.com/user-attachments/assets/6b692831-d956-40c7-ab44-5b82faf32c10" />
 <img width="1918" height="1092" alt="Parte_1" src="https://github.com/user-attachments/assets/e376a5e7-7b34-4bf7-8c35-e0b3b5a89aee" />
+
+## Formulario y Modal funcionando
+<img width="1918" height="1093" alt="Parte_4" src="https://github.com/user-attachments/assets/44f2deaa-82c5-4832-a1e9-76a79c62597d" />
+<img width="1920" height="1200" alt="Parte_3" src="https://github.com/user-attachments/assets/49bbda99-9729-4a33-9b45-0f67ea096ad7" />
+<img width="1918" height="1090" alt="Parte_5" src="https://github.com/user-attachments/assets/67737c53-a258-488d-98df-c083ec95da9b" />
 
